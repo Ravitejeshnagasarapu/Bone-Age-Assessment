@@ -82,7 +82,9 @@ Gradient-weighted Class Activation Mapping (Grad-CAM) was used to visualize mode
 
 ## Project Team
 **Institution:** IIITDM Kancheepuram, Department of Computer Science and Engineering
-**Faculty Advisor:** **Dr. Umarani**   
+
+**Faculty Advisor:** **Dr. Umarani**
+
 **Student Team:**
 * **P. Srikala** - CS23B2049
 * **N. Ravi Tejesh** - CS23B2051
